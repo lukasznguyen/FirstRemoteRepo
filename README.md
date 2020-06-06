@@ -1,1 +1,2 @@
 # FirstRemoteRepo
+#KTO JEST NAJLEPSZYM COMMITEREM?
